@@ -6,7 +6,7 @@
 
 
 .b-profile-sidebar {
-    width: 300px;
+    width: 40%;
     padding: 20px 40px;
     border: 1px solid red;
     font-family: 'Lato', sans-serif;
@@ -15,7 +15,7 @@
 
 
 .b-profile-sidebar__photo-container {
-    width: 220px;
+    width: 100%;
 }
 
 .b-profile-sidebar__main-photo {
